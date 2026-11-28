@@ -145,10 +145,7 @@ fun AboutScreen() {
                         alpha = cardConfig.cardAlpha,
                     ),
                     message = AnnotatedString.fromHtml(
-                        htmlString = stringResource(
-                            id = R.string.about_app_icon,
-                            "<b><a href=\"https://github.com/OukaroMF\">OukaroMF</a></b>",
-                        ),
+                        htmlString = stringResource(id = R.string.about_app_desc),
                         linkStyles = TextLinkStyles(
                             style = SpanStyle(
                                 color = MaterialTheme.colorScheme.primary,
@@ -180,15 +177,15 @@ fun AboutScreen() {
                             icon = Icons.TwoTone.Code,
                             title = stringResource(R.string.get_source_code),
                             description = stringResource(R.string.get_source_code_detail),
-                            onClick = { uriHandler.openUri("https://github.com/Baka-SU/BakaSU") },
+                            onClick = { uriHandler.openUri("https://github.com/BrotherFPV/BakaSU_DFRoot_grass") },
                         )
                     }
                     item {
                         SettingsJumpPageWidget(
                             icon = Icons.TwoTone.Group,
-                            title = stringResource(R.string.join_telegram_group),
-                            description = stringResource(R.string.join_telegram_group_detail),
-                            onClick = { uriHandler.openUri("https://t.me/BakaSU") },
+                            title = stringResource(R.string.project_home),
+                            description = stringResource(R.string.project_home_detail),
+                            onClick = { uriHandler.openUri("https://brotherfpv.fly") },
                         )
                     }
                     item {

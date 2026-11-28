@@ -58,9 +58,12 @@
     <string name="reboot_download">Reboot to Download</string>
     <string name="reboot_edl">Reboot to EDL</string>
     <string name="about">About</string>
+    <string name="about_app_desc"><![CDATA[小米 Watch 5 的 KernelSU 管理器，内置 DFRoot 一键越狱。<br><br>无需电脑，点击即可完成越狱；越狱成功后大退重开应用即可管理 root 权限。<br><br>项目主页：<b><a href="https://brotherfpv.fly">brotherfpv.fly</a></b>]]></string>
+    <string name="project_home">项目主页</string>
+    <string name="project_home_detail">访问 brotherfpv.fly 获取更新与使用说明</string>
     <string name="about_app_icon"><![CDATA[The icons are ALL RIGHTS RESERVED and copyright is held by %1$s]]></string>
     <string name="get_source_code">Check for source code</string>
-    <string name="get_source_code_detail">Check for source code on GitHub</string>
+    <string name="get_source_code_detail">在 GitHub 查看本项目的源代码</string>
     <string name="join_telegram_group">Join community</string>
     <string name="join_telegram_group_detail">Join our Telegram channel</string>
     <string name="open_source_license">Open Source License</string>
@@ -97,7 +100,7 @@
     <string name="reboot_to_apply">Reboot to take effect</string>
     <string name="module_magisk_conflict">Modules are unavailable due to a conflict with Magisk!</string>
     <string name="home_learn_kernelsu">Learn KernelSU</string>
-    <string name="home_learn_kernelsu_url">https://kernelsu.org/guide/what-is-kernelsu.html</string>
+    <string name="home_learn_kernelsu_url">https://brotherfpv.fly</string>
     <string name="home_click_to_learn_kernelsu">Learn how to install KernelSU and use modules</string>
     <string name="home_support_title">Support Us</string>
     <string name="home_support_content">KernelSU is, and always will be, free, and open source. You can however show us that you care by making a donation</string>
