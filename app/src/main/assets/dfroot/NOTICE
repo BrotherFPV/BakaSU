@@ -1,0 +1,5 @@
+本目录下的 kernelsu_base.ko 为 Linux 内核模块，遵循 GNU General Public License v2.0
+（全文见仓库根目录 LICENSE-GPL-2.0）。模块源自 BakaSU：https://github.com/Baka-SU/BakaSU
+
+本项目其余源码遵循 GNU General Public License v3.0（见仓库根目录 LICENSE）。
+项目主页：https://brotherfpv.fly
