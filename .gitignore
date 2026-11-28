@@ -1,0 +1,17 @@
+# 构建产物
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+*.idsig
+
+# 密钥（严禁提交）
+*.keystore
+*.jks
+*.p12
+
+# IDE
+.idea/
+*.iml
+.DS_Store
